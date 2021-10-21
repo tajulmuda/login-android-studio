@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyKuis</string>
+    <string name="tittle_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_tittle">CHOISE</string>
+    <string name="slide_1_desc">Akan ada banyak pilihan menarik yang dapat kamu pilih sesuai kebutuhan kamu</string>
+
+    <string name="slide_2_tittle">Kuis</string>
+    <string name="slide_2_desc">Ada banyak pertanyaan yang menguji wawasanmu disini</string>
+
+    <string name="slide_3_tittle">Konversi Mata Uang</string>
+    <string name="slide_3_desc">Disini anda juga dapat menggunakan Konversi mata uang</string>
+
+    <string name="slide_4_tittle">WELCOME</string>
+    <string name="slide_4_desc">Selamat datang dan nikmati semua fiturnya Enjoy</string>
+
+</resources>
